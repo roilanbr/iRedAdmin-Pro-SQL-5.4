@@ -1,4 +1,4 @@
-# iRedAdmin-Pro-SQL
+# iRedAdmin-Pro-SQL Provado con iRedMail-1.6.8 en Debian 11/12
 
 ### Repositorio gratuito & de código abierto de iRedAdmin-Pro-SQL
 
